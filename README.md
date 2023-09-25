@@ -1,6 +1,6 @@
 # Dish-Reviews-as-a-Service-on-AWS
 
-This a Full stack cloud application built using AWS The below is the Technology Stack. FOr full details, please check final_report.pdf
+This a Full stack cloud application built using AWS The below is the Technology Stack. 
 
 Google App Engine -AWS
 MongoDB
